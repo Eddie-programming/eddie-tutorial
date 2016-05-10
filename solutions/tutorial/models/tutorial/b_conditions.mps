@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model ref="r:780d776c-3daa-4404-a227-b47b10fbe2ae(tutorial.c_conditions)">
+<model ref="r:780d776c-3daa-4404-a227-b47b10fbe2ae(tutorial.b_conditions)">
   <persistence version="9" />
   <languages>
     <use id="5540ad23-650b-4fa5-b8b5-236a8e7e1c34" name="org.eddieprogramming.core.EddieBasic" version="0" />
